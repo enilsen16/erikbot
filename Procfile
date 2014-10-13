@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Erikbot
+web: HUBOT_GITTER2_TOKEN= ENV['GITTER_TOKEN'] bin/hubot -a gitter2 -n erikbot
